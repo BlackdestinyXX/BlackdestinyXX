@@ -1,16 +1,28 @@
-### Hi there 👋
+Salve! Sono BlackdestinyXX!
 
-<!--
-**BlackdestinyXX/BlackdestinyXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 - Sono un misterioso programmatore italiano...
 
-Here are some ideas to get you started:
+Ecco alcune informazioni su di me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔢 - Età: 737465346459698473456 anni... Ehh si, sono molto vecchio
+
+😶 - Nome: Polish Cow
+
+👫 - Sesso: Dai questo ve lo posso dire... Sono un maschio
+
+
+### I miei linguaggi preferiti:
+
+Java
+C++
+Javascript
+
+### Linguaggi che conosco:
+
+Java
+C++
+Javascript
+Html
+Css
+
+Programmo in oltre bot per discord in discord.js.
