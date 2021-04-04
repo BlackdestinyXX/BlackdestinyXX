@@ -1,28 +1,22 @@
-Salve! Sono BlackdestinyXX!
+Hello! I'm Bl4ckdestinyXX!
 
-💻 - Sono un misterioso programmatore italiano...
-
-Ecco alcune informazioni su di me!
-
-🔢 - Età: 737465346459698473456 anni... Ehh si, sono molto vecchio
-
-😶 - Nome: Polish Cow
-
-👫 - Sesso: Dai questo ve lo posso dire... Sono un maschio
+💻 - I'm a young italian developer!
 
 
-### I miei linguaggi preferiti:
+### My favourite programming languages are:
 
 Java
 C++
 Javascript
 
-### Linguaggi che conosco:
+### I know this languages:
 
-Java
+Java (not very well)
 C++
-Javascript
-Html
-Css
+Javascript (absolute my favourite)
+HTML
+CSS
+Python
+C# (I'm learning it)
 
-Programmo in oltre bot per discord in discord.js.
+I also program Discord bot with Javascript!
