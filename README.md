@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdestinyxx&label=Profile%20views&color=0e75b6&style=flat" alt="blackdestinyxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackdestinyxx" alt="blackdestinyxx" /></a> </p>
-
 - 🔭 I’m currently working on [Type Studios](https://discord.gg/V4tTTqAbeD)
 
 - 🌱 I’m currently learning **C++ and Vue.js**
