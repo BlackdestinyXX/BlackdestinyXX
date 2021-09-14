@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Type Studios](https://discord.gg/V4tTTqAbeD)
 
-- 🌱 I’m currently learning **C++ and Vue.js**
-
-- 👯 I’m looking to collaborate on [Prime Bots](https://primebots.it)
-
-- 🤝 I’m looking for help with **The Wumpus's Cave**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BlackdestinyXX](https://github.com/BlackdestinyXX)
 
