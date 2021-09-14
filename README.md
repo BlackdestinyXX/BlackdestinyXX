@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackdestinyxx&show_icons=true&locale=en" alt="blackdestinyxx" /></p>
 
-[Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdestinyxx)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdestinyxx)
