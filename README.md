@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackdestinyxx&show_icons=true&locale=en" alt="blackdestinyxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackdestinyxx" alt="blackdestinyxx" /></p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=BlackdestinyXX)]
