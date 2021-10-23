@@ -19,4 +19,4 @@ Talk to me about
 - Discord - Bl4ckdestinyXX#5439
 - Email - blackdestinyx145@gmail.com
 
-![](https://64.media.tumblr.com/9ec5338aa927566332a99d256c295129/22c7fca6daf7bac3-04/s2048x3072/b60bbce3aec452b83dc956dac78ae44329c488cf.gif)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50de13cc-60fc-4e23-9f77-7184663fbd7e/db6wvtt-08854bfb-0074-4693-9d03-2b493d58e9c1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwZGUxM2NjLTYwZmMtNGUyMy05Zjc3LTcxODQ2NjNmYmQ3ZVwvZGI2d3Z0dC0wODg1NGJmYi0wMDc0LTQ2OTMtOWQwMy0yYjQ5M2Q1OGU5YzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0QiufaTFzjmtuLHAp5EpiclJs9sWU4OJ65UGIWXOFX8)
