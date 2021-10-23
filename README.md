@@ -19,4 +19,4 @@ Talk to me about
 - Discord - Bl4ckdestinyXX#5439
 - Email - blackdestinyx145@gmail.com
 
-![(https://64.media.tumblr.com/9ec5338aa927566332a99d256c295129/22c7fca6daf7bac3-04/s2048x3072/b60bbce3aec452b83dc956dac78ae44329c488cf.gif)]
+![](https://64.media.tumblr.com/9ec5338aa927566332a99d256c295129/22c7fca6daf7bac3-04/s2048x3072/b60bbce3aec452b83dc956dac78ae44329c488cf.gif)
