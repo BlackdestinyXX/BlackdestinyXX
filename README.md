@@ -20,3 +20,8 @@ Talk to me about
 - Email - blackdestinyx145@gmail.com
 
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=blackdestinyxx&show_icons=true&theme=tokyonight)
+
+## 🚀 Some Projects
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=node-keypress)](https://github.com/blackdestinyxx/node-keypress)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal)](https://github.com/blackdestinyxx/NyanTerminal)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu)](https://github.com/blackdestinyxx/Cpiupiu)
