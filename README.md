@@ -22,6 +22,6 @@ Talk to me about
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=blackdestinyxx&show_icons=true&theme=tokyonight)
 
 ## 🚀 Some Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=node-keypress)](https://github.com/blackdestinyxx/node-keypress)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal)](https://github.com/blackdestinyxx/NyanTerminal)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu)](https://github.com/blackdestinyxx/Cpiupiu)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=node-keypress&theme=blueberry)](https://github.com/blackdestinyxx/node-keypress)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal&theme=blueberry)](https://github.com/blackdestinyxx/NyanTerminal)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu&theme=blueberry)](https://github.com/blackdestinyxx/Cpiupiu)
