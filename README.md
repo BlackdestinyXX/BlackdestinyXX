@@ -23,5 +23,6 @@ Talk to me about
 
 ## 🚀 Some Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=node-keypress&theme=blueberry)](https://github.com/blackdestinyxx/node-keypress)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=DiscordUserLookup&theme=blueberry)](https://github.com/blackdestinyxx/DiscordUserLookup)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal&theme=blueberry)](https://github.com/blackdestinyxx/NyanTerminal)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu&theme=blueberry)](https://github.com/blackdestinyxx/Cpiupiu)
