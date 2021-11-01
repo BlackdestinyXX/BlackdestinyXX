@@ -5,6 +5,8 @@ Creator of [Grapes - discord.grapes](https://github.com/BlackdestinyXX/Grapes-di
 
 ## 🔍 About
 A young developer from italy. I started programming at 10 years old, and now I program with Javascript, Java, C++ and sometimes Ruby.
+I like to try and learn different programming languages.
+Currently learning Game Development with C++ and Unreal Engine.
 
 ## ⚡ Technologies
 Talk to me about
