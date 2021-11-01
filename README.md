@@ -27,3 +27,5 @@ Talk to me about
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal&theme=blueberry)](https://github.com/blackdestinyxx/NyanTerminal)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu&theme=blueberry)](https://github.com/blackdestinyxx/Cpiupiu)
+
+<button style="background-color: blue; border-radius: 10px" onclick="window.location.href = 'https://discord.gg/qwBeHd7qBd'">Join my Discord Server</button>
