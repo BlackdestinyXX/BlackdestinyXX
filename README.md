@@ -30,4 +30,6 @@ Talk to me about
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=NyanTerminal&theme=blueberry)](https://github.com/blackdestinyxx/NyanTerminal)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu&theme=blueberry)](https://github.com/blackdestinyxx/Cpiupiu)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdestinyxx&layout=compact&theme=tokyonight)](https://github.com/blackdestinyxx/github-readme-stats)
+
 <a style="background-color: blue !important; border-radius: 10px !important" href="https://discord.gg/qwBeHd7qBd">Join my Discord Server</button>
