@@ -4,9 +4,10 @@ Creator and Developer of  [Skyforce](https://discord.gg/xJ6Qmn2AWw) <br>
 Creator of [Grapes - discord.grapes](https://github.com/BlackdestinyXX/Grapes-discord.grapes)
 
 ## 🔍 About
-A young developer from italy. I started programming at 10 years old, and now I program with Javascript, Java, C++ and sometimes Ruby.
-I like to try and learn different programming languages.
-Currently learning Game Development with C++ and Unreal Engine.
+A young developer from italy. I started programming at 10 years old, and now I program with Javascript, Java, C++ and sometimes Ruby. <br>
+I like to try and learn different programming languages. <br>
+Currently learning Game Development with C++ and Unreal Engine. <br>
+I'm also a big fan of Watch Dogs and Assassin's Creed series.
 
 ## ⚡ Technologies
 Talk to me about
