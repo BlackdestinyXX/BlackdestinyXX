@@ -23,7 +23,7 @@ Talk to me about
 - Discord - Bl4ckdestinyXX#5439
 - Email - blackdestinyx145@gmail.com
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BlackdestinyXX/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BlackdestinyXX/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
 
 ## 🚀 Some Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=node-keypress&theme=blueberry)](https://github.com/blackdestinyxx/node-keypress)
