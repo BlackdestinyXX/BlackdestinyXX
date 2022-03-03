@@ -6,7 +6,8 @@ Developer of [NISD Bot](https://discord.com/api/oauth2/authorize?client_id=73453
  
 ## 🔍 About
 A young developer from italy. I started programming at 10 years old, and now I program with Javascript, Java, C++ and sometimes Ruby. <br>
-I like to try and learn different programming languages. <br>
+I like to try and learn different programming languages and tecnologies. <br>
+My favourite programming language is JavaScript. <br>
 I'm also a big fan of Watch Dogs and Assassin's Creed series.
 
 ## ⚡ Technologies
