@@ -33,3 +33,5 @@ Talk to me about
 [![](https://github-readme-stats.vercel.app/api/pin/?username=blackdestinyxx&repo=Cpiupiu&theme=blueberry)](https://github.com/blackdestinyxx/Cpiupiu)
 
 <a style="background-color: blue !important; border-radius: 10px !important" href="https://discord.gg/qwBeHd7qBd">Join my Discord Server</button>
+
+<a href="https://app.daily.dev/BlackdestinyXX"><img src="https://api.daily.dev/devcards/d9882538452540cc9ecc512e86b8fbf0.png?r=vui" width="400" alt="BlackdestinyXX's Dev Card"/></a>
