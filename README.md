@@ -13,7 +13,7 @@ I'm also a big fan of Watch Dogs and Assassin's Creed series.
 ## ⚡ Technologies
 Talk to me about
 - Front-end development <br> <br>
-[![](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue,nuxtjs,nextjs&perline=3)](https://skillicons.dev)
 - Backend development <br> <br>
 [![](https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3)](https://skillicons.dev)
 - Databases <br> <br>
