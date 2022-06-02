@@ -22,6 +22,8 @@ Talk to me about
 [![](https://skillicons.dev/icons?i=electron&perline=3)](https://skillicons.dev)
 - Project Management and CD/CI <br> <br>
 [![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+- Text Editors/IDEs <br> <br>
+[![](https://skillicons.dev/icons?i=vscode,idea&perline=3)](https://skillicons.dev)
 
 ## 📫 Contact Me
 - Discord - Bl4ckdestinyXX#5439
