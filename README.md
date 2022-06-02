@@ -12,12 +12,16 @@ I'm also a big fan of Watch Dogs and Assassin's Creed series.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development <br>
+- Front-end development <br> <br>
 [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue&perline=3)](https://skillicons.dev)
-- Backend development using **![Node.js](https://img.shields.io/badge/-Node.js-black?&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?&logo=express)**
-- Database that I know **![MongoDB](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb)**
-- Desktop application development using **![ElectronJS](https://img.shields.io/badge/-Electron-black?&logo=electron)**
-- Project Management and CD/CI using **![Github](https://img.shields.io/badge/-Github-black?&logo=github) ![Git](https://img.shields.io/badge/-Git-black?&logo=git)**
+- Backend development <br> <br>
+[![](https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3)](https://skillicons.dev)
+- Databases <br> <br>
+[![](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+- Desktop application development <br> <br>
+[![](https://skillicons.dev/icons?i=electron&perline=3)](https://skillicons.dev)
+- Project Management and CD/CI <br> <br>
+[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
 
 ## 📫 Contact Me
 - Discord - Bl4ckdestinyXX#5439
