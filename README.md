@@ -3,6 +3,8 @@ Founder of [Type Studios](https://discord.gg/USUhuUM3He) <br>
 Creator and Developer of  [SkyForce](https://discord.gg/xJ6Qmn2AWw) <br>
 Creator of [Grapes - discord.grapes](https://github.com/BlackdestinyXX/Grapes-discord.grapes) <br>
 Developer of [NISD Bot](https://discord.com/api/oauth2/authorize?client_id=734535353473433729&permissions=8&scope=bot)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G7DZSCU)
  
 ## 🔍 About
 A young developer from italy. I started programming at 10 years old, and now I program with Javascript, Java, C++ and sometimes Ruby. <br>
